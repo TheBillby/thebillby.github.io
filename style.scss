@@ -159,12 +159,16 @@ img {
 
 .masthead {
   padding: 20px 0;
-  color: 303030;
+ 
 
   @include mobile {
     text-align: center;
   }
 }
+
+div.grey-block { color: 303030;}
+
+
 
 .site-avatar {
   float: left;
