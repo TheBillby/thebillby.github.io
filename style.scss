@@ -51,6 +51,9 @@ h1 {
   }
 }
 
+h1.site-name { font-size: 50px; color:#ffffff; }
+
+
 h2 {
   font-size: 24px;
 }
@@ -156,7 +159,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  color: 303030;
 
   @include mobile {
     text-align: center;
