@@ -1,3 +1,9 @@
+---
+layout: page
+title: Bibliography
+permalink: /bibliography/
+---
+
 # Books
 * [Share This Book](https://livinglibre1.wordpress.com/share-this-book/), April 2011
 * [A Free, Libre and Open Glossary](http://faow.referata.com/wiki/A_Free,_Libre_and_Open_Glossary), August 2013
