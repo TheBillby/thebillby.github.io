@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+	font-family: 'Oswald', sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -159,17 +159,22 @@ img {
 
 .masthead {
   padding: 20px 0;
-  color: 303030;
+ 
 
   @include mobile {
     text-align: center;
   }
 }
 
+div.grey-block {  background-color: #303030; height: 100px;}
+
+
+
 .site-avatar {
   float: left;
   width: 70px;
   height: 70px;
+  margin-left: 50px;
   margin-right: 15px;
 
   @include mobile {
@@ -195,11 +200,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-weight: 700;
+  font-size: 50px;
   letter-spacing: 1px;
 }
 
@@ -212,6 +215,8 @@ img {
     margin: 3px 0;
   }
 }
+
+nav {margin-right: 20px;}
 
 nav {
   float: right;
