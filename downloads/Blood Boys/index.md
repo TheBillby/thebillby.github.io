@@ -1,6 +1,0 @@
-* [Alt. Cover 1](/downloads/Blood%20Boys/Blood%20Boys%20-%20Alt%20Cover%201.jpg)
-* [Alt. Cover 2](/downloads/Blood%20Boys/Blood%20Boys%20-%20Alt%20Cover%202.jpg)
-* [Cover](/downloads/Blood%20Boys/Blood%20Boys%20-%20Cover.jpg)
-* [Release 1, ODT](/downloads/Blood%20Boys/Blood%20Boys%20-%20Release%201.odt)
-* [Release 1, PDF](/downloads/Blood%20Boys/Blood%20Boys%20-%20Release%201.pdf)
-* [Release 0, DOCX](/downloads/Blood%20Boys/Blood%20Boys%2C%20release%200%202014.docx)
