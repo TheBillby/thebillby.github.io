@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about_about/
 ---
 
-My name is Bill Browne.
+My name is <strong>Bill Browne</strong>.
 
 ### Contact me
 
