@@ -24,6 +24,9 @@ permalink: /bibliography/
 # Blogs
 * http://livinglibre1.wordpress.com (2011- )
 
+# Art
+* sanglorian.deviantart.com
+
 # Tabletop Gaming
 * [Grim Portents](grimportents.wordpress.com) (2013- )
 * The [Shrouded Lands](http://shrouded-lands.wikia.com/wiki/The_Shrouded_Lands_Wiki) (2012- ), a cooperative world-design project with its own wiki
@@ -59,6 +62,12 @@ Quick start rules and two sample settings for Chris Gonnerman's _The Simple Game
 
 ## Down and Out in Gadding-Thoth (2013) 
 A _Searchers of the Unknown/Dungeon World_ derived game set in twin cities. CC BY-SA. PDF and DOC.
+
+* [cover, JPG](/downloads/Down%20and%20Out%20in%20Gadding-Thoth/Down%20and%20Out%20in%20Gadding-Thoth.jpg)
+* [PDF](/downloads/Down%20and%20Out%20in%20Gadding-Thoth/Down%20and%20Out%20in%20Gadding-Thoth.pdf)
+* [ODT](/downloads/Down%20and%20Out%20in%20Gadding-Thoth/Down%20and%20Out%20in%20Gadding-Thoth.odt)
+* [Errata, PDF](/downloads/Down%20and%20Out%20in%20Gadding-Thoth/Errata%20for%20Down%20%26%20Out%20in%20Gadding-Thoth.pdf)
+* [Errata, ODT](/downloads/Down%20and%20Out%20in%20Gadding-Thoth/Errata%20for%20Down%20%26%20Out%20in%20Gadding-Thoth.odt)
 
 ## _Dungeon World and World of Dungeons_
 
@@ -118,13 +127,26 @@ The zine I edited. CC BY-SA or CC BY. PDF and ODT.
 
 **A Strange Charm** (2009?) is a Doctor Who-inspired 24-hour RPG. CC BY. PDF and DOC.
 
+* [JPG front cover](/downloads/Otherkind%20Dice/A%20Strange%20Charm%20-%20Front%20Cover%20-%2024HRPG.jpg)
+* [JPG back cover](/downloads/Otherkind%20Dice/A%20Strange%20Charm%20-%20Back%20Cover%20-%2024HRPG.jpg)
+* [DOC](/downloads/Otherkind%20Dice/A%20Strange%20Charm%20-%2024HRPG.doc)
+* [PDF](/downloads/Otherkind%20Dice/A%20Strange%20Charm%20-%2024HRPG.pdf)
+
 **Ghost/Echo Whispers** (2009?) takes an idea from the development of _Do_ (since discarded, I think) and applies it to _Ghost/Echo._ All rights reserved. JPG. 
 
+* [JPG](/downloads/Otherkind%20Dice/Ghost%20Echo%20Whispers.jpg)
+
 **You Are Badass** (2010) is a game I wrote in 6 minutes about having tremendous powers – and what you might give up when you use them. CC BY. ODT and PDF.
+
+* [ODT](/downloads/Otherkind%20Dice/You%20Are%20Badass.odt)
+* [PDF](/downloads/Otherkind%20Dice/You%20Are%20Badass.pdf)
 
 ## _**Polaris**_
 
 **The Cult of the Sun** (2009?) was my shot at providing an alternative to the Stellar Knights. All rights reserved. ODT and PDF.
+
+* [ODT](/downloads/Polaris/Cult%20of%20the%20Sun%20--%20Polaris.odt)
+* [PDF](/downloads/Polaris/Cult%20of%20the%20Sun%20--%20Polaris.pdf)
 
 ## _**Redbox Hack**_
 
@@ -132,17 +154,33 @@ The zine I edited. CC BY-SA or CC BY. PDF and ODT.
 
 The four Seeing Red supplements (2010?) offer new classes for Eric Provost's _Redbox Hack._ CC BY. PDF. 
 
-* **The Haunt** is an itinerant necromancer. 
-* **The Grim** is a grizzled mercenary. 
-* **The Moon** is a rabbit-eared martial artist. 
-* **The Seraph** is a whirling alchemist.
+* **[The Haunt](/downloads/Redbox%20Hack%202/Seeing%20Red%201%20-%20The%20Haunt%20(2012).pdf)** is an itinerant necromancer. 
+* **[The Grim](/downloads/Redbox%20Hack%202/Seeing%20Red%202%20-%20The%20Grim%20(2012).pdf)** is a grizzled mercenary. 
+* **[The Moon](/downloads/Redbox%20Hack%202/Seeing%20Red%203%20-%20The%20Moon%20(2012).pdf)** is a rabbit-eared martial artist. 
+* **[The Seraph](/downloads/Redbox%20Hack%202/Seeing%20Red%204%20-%20The%20Seraph%20(2012).pdf)** is a whirling alchemist.
 
 ## **Storystory**
 
 I gave some thought to how you could roleplay in prison, and these are some of the results. 
 
-**Hearth & Hunt** (2011)is a quickplay adaptation of _The Fading of the Land,_ with the players taking the role of storytellers bickering over previous battles against the monsters. CC BY-SA. JPG and PDF. 
+**Hearth & Hunt** (2011) is a quickplay adaptation of _The Fading of the Land,_ with the players taking the role of storytellers bickering over previous battles against the monsters. CC BY-SA. JPG and PDF. 
+
+* Images (black and white)
+ * [All JPGs](/downloads/Storystory/HearthAndHuntCompleteBNW.zip)
+* Images (colour)
+ * [Storyteller cards](/downloads/Storystory/HearthAndHuntCompleteColour/StorytellerColour.zip)
+ * [Element cards](/downloads/Storystory/HearthAndHuntCompleteColour/Element%20Cards%20(color).zip)  
+* [Rules, PDF](/downloads/Storystory/HearthAndHuntCompleteColour/Hearth%20%26%20Hunt.pdf)
 
 **The Rule of Three** and **Breaking the Rule of Three** (2011) are the simplest versions of the Storystory system I envisaged. CC BY-SA. PDF and ODT. 
 
+* [The Rule of Three cover](/downloads/Storystory/cover-trot.pdf)
+* [The Rule of Three, PDF](/downloads/Storystory/The%20Rule%20of%20Three%20010711.pdf)
+* [The Rule of Three, ODT](/downloads/Storystory/The%20Rule%20of%20Three%20Take%202.odt)
+* [Breaking the Rule of Three cover](/downloads/Storystory/cover-btrot.pdf)
+* [Breaking the Rule of Three, PDF](/downloads/Storystory/Breaking%20the%20Rule%20of%20Three%20010711.pdf)
+* [Breaking the Rule of Three, ODT](/downloads/Storystory/Breaking%20the%20Rule%20of%20Three.odt)
+
 **The Life Domestic** (2011) is a set of cards (like an oracle) for _The Rule of Three._ CC BY-SA. PDF.
+
+* [PDF](/downloads/Storystory/The%20Life%20Domestic%20110725.pdf)
