@@ -4,6 +4,7 @@ title: Thesis Summary - Towards a Monopoly Marketplace
 permalink: /thesis_summary/
 ---
 
+
 By <a href="mailto:williamgeorgebrowne@gmail.com">Bill Browne</a>.
 <blockquote>In 2013, I submitted my thesis for Honours in Law at the Australian National University. You can read the <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2413282">13,000-word essay on SSRN</a>. I've finally written a summary of my thesis which is closer to a thousand words.</blockquote>
 <h1>Summary</h1>
