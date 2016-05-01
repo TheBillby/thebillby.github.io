@@ -5,7 +5,7 @@ title: Making my own piecepack
 
 <a href="https://livinglibre1.files.wordpress.com/2014/11/20141102_011835.jpg"><img class="wp-image-537 size-medium" src="https://livinglibre1.files.wordpress.com/2014/11/20141102_011835.jpg?w=167" alt="20141102_011835" width="167" height="300" /></a> </br><em>The piecepack allows you to play hundreds of boardgames.</em>
 
-<br />
+<br>
 
 The <a href="http://www.ludism.org/ppwiki/">piecepack is to board games as the 52-card deck of cards is to card games</a>: a set of standardised components that can be used to play many games.
 
