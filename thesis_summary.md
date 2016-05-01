@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thesis Summary: Towards a Monopoly Marketplace
-permalink: /thesis_summary
+title: Thesis Summary - Towards a Monopoly Marketplace
+permalink: /thesis_summary/
 ---
 
 By <a href="mailto:williamgeorgebrowne@gmail.com">Bill Browne</a>.
