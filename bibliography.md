@@ -6,7 +6,7 @@ permalink: /bibliography/
 
 # Books
 * [Share This Book](https://livinglibre1.wordpress.com/share-this-book/), April 2011
-* [A Free, Libre and Open Glossary](http://faow.referata.com/wiki/A_Free,_Libre_and_Open_Glossary), August 2013
+* [A Free, Libre and Open Glossary](http://faow.referata.com/wiki/A_Free,_Libre_and_Open_Glossary), August 2013, updated September 2014
 
 # Articles
 * ["New glossary helps break down common open source related terms"](https://opensource.com/life/13/8/free-libre-open-glossary), _Opensource.com_, 23 August 2013
