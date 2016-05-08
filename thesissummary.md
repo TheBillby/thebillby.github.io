@@ -12,77 +12,78 @@ I argue that the current copyright system does not strike an ideal balance betwe
 <h1>Rationale</h1>
 Creative and informative works cost time, money and energy to make
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-16.png"><img class="alignnone size-medium wp-image-509" src="https://livinglibre1.files.wordpress.com/2014/10/image-16.png?w=300" alt="image 16" width="300" height="300" /></a>
+<img class="alignnone size-medium wp-image-509" src="http://thebillby.github.io/images/thesis_summary/image%2016.png" width="300" height="300" />
 
 ... but practically nothing to distribute...
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-2.png"><img class="alignnone size-medium wp-image-499" src="https://livinglibre1.files.wordpress.com/2014/10/image-2.png?w=300" alt="image 2" width="300" height="300" /></a>
+<img src="http://thebillby.github.io/images/thesis_summary/image%202.png" alt="image 2" width="300" height="300" />
 
 Ideally, anyone would be able to distribute and adapt works, which would maximise a work's benefit.
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-3.png"><img class="alignnone size-medium wp-image-500" src="https://livinglibre1.files.wordpress.com/2014/10/image-3.png?w=300" alt="image 3" width="300" height="128" /></a>
+<img class="alignnone size-medium wp-image-500" src="http://thebillby.github.io/images/thesis_summary/image%203.png" alt="image 3" width="300" height="128" />
 
 But if anyone can sell or distribute a work, why buy it from the creator?
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-4.png"><img class="alignnone size-medium wp-image-501" src="https://livinglibre1.files.wordpress.com/2014/10/image-4.png?w=300" alt="image 4" width="300" height="300" /></a>
+<img class="alignnone size-medium wp-image-501" src="http://thebillby.github.io/images/thesis_summary/image%204.png" alt="image 4" width="300" height="300" />
 
 And if you're not getting paid to create, why create?
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-5.png"><img class="alignnone size-medium wp-image-502" src="https://livinglibre1.files.wordpress.com/2014/10/image-5.png?w=300" alt="image 5" width="300" height="300" /></a>
+<img class="alignnone size-medium wp-image-502" src="http://thebillby.github.io/images/thesis_summary/image%205.png" alt="image 5" width="300" height="300" />
 
 If I receive the benefit of something  whether or not I contribute to its creation/maintenance, I will be better off if I do not contribute.
 
 But if enough people think like that, the thing is not created or maintained, and I am worse off than if I (and everyone else) contributed.
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-6.png"><img class="alignnone size-medium wp-image-503" src="https://livinglibre1.files.wordpress.com/2014/10/image-6.png?w=300" alt="image 6" width="300" height="103" /></a>
+<img class="alignnone size-medium wp-image-503" src="http://thebillby.github.io/images/thesis_summary/image%206.png" alt="image 6" width="300" height="103" />
 
 There are a number of ways of providing public goods while avoiding the free rider problem described above.
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-7.png"><img class="alignnone size-medium wp-image-504" src="https://livinglibre1.files.wordpress.com/2014/10/image-7.png?w=300" alt="image 7" width="300" height="106" /></a>
+<img class="alignnone size-medium wp-image-504" src="http://thebillby.github.io/images/thesis_summary/image%207.png" alt="image 7" width="300" height="106" />
 
 And <strong>artificial scarcity</strong>. Give creators a de jure monopoly, and people are no longer contributing to a public good. They're purchasing a single item. Their choice becomes much simpler:
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-8.png"><img class="alignnone size-medium wp-image-505" src="https://livinglibre1.files.wordpress.com/2014/10/image-8.png?w=300" alt="image 8" width="300" height="75" /></a>
+<img class="alignnone size-medium wp-image-505" src="http://thebillby.github.io/images/thesis_summary/image%208.png" alt="image 8" width="300" height="75" />
 
 That's the approach taken by the current copyright system. It is predicated on the assumption that:
 Unlimited access to fewer works is worse than limited access to more works.
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-9.png"><img class="alignnone size-medium wp-image-506" src="https://livinglibre1.files.wordpress.com/2014/10/image-9.png?w=300" alt="image 9" width="300" height="62" /></a>
+<img class="alignnone size-medium wp-image-506" src="http://thebillby.github.io/images/thesis_summary/image%209.png" alt="image 9" width="300" height="62" />
 
 In fact, there's a few more factors we need to weigh up:
 <p style="text-align:center;"><em>Without copyright</em></p>
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-12.png"><img class="alignnone wp-image-523 size-large" src="https://livinglibre1.files.wordpress.com/2014/10/image-12.png?w=660" alt="image 12" width="660" height="85" /></a>
+<img class="alignnone wp-image-523 size-large" src="http://thebillby.github.io/images/thesis_summary/image%2012.png" alt="image 12" width="660" height="85" />
 <p style="text-align:center;"><em>With copyright</em></p>
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-11.png"><img class="alignnone wp-image-524 size-large" src="https://livinglibre1.files.wordpress.com/2014/10/image-11.png?w=660" alt="image 11" width="660" height="92" /></a>
+<img class="alignnone wp-image-524 size-large" src="http://thebillby.github.io/images/thesis_summary/image%2011.png?w=660" alt="image 11" width="660" height="92" />
 
 What if we could reform the system so that more works exist or are available, access is less limited, deadweight losses are lower and our civil liberties are less infringed upon?
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/1.png"><img class="alignnone size-medium wp-image-525" src="https://livinglibre1.files.wordpress.com/2014/10/1.png?w=300" alt="1" width="300" height="300" /></a>
+<img class="alignnone size-medium wp-image-525" src="http://thebillby.github.io/images/thesis_summary/1.png" alt="1" width="300" height="300" />
 <h1>Proposed reforms</h1>
 <h2>Shorter terms</h2>
 Copyright currently runs for 70 years after the death of the author.
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-14.png"><img class="alignnone wp-image-508 size-large" src="https://livinglibre1.files.wordpress.com/2014/10/image-14.png?w=660" alt="image 14" width="660" height="457" /></a>
+<img class="alignnone wp-image-508 size-large" src="http://thebillby.github.io/images/thesis_summary/image%2014.png" alt="image 14" width="660" height="457" />
 
 Studies into the optimal copyright term have suggested terms like 2 years or 15 years.
 If the copyright term were 15 years, currently in the public domain would be:
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/2.png"><img class="alignnone size-medium wp-image-526" src="https://livinglibre1.files.wordpress.com/2014/10/2.png?w=300" alt="2" width="300" height="145" /></a>
+<img class="alignnone size-medium wp-image-526" src="http://thebillby.github.io/images/thesis_summary/2.png" alt="2" width="300" height="145" />
 <blockquote>
 <h3>Movies</h3>
-There's Something About Mary
-The Shawshank Redemption
-Jurassic Park
-The Matrix
+There's Something About Mary, 
+The Shawshank Redemption, 
+Jurassic Park, 
+The Matrix, 
 Fight Club
 <h3>Songs</h3>
-"Smells Like Teen Spirit", Nirvana
-"Sweetest Thing", U2
-"Baby One More Time", Britney Spears
+"Smells Like Teen Spirit", Nirvana;   
+"Sweetest Thing", U2; 
+"Baby One More Time", Britney Spears  
 <h3>Books</h3>
-<em>A Game of Thrones</em>
-<em>The Wind-Up Bird Chronicle</em>
-<em>Harry Potter and the Chamber of Secrets</em></blockquote>
+<em>A Game of Thrones</em>, 
+<em>The Wind-Up Bird Chronicle</em>,   
+<em>Harry Potter and the Chamber of Secrets</em>
+</blockquote>
 <h2>Require registration</h2>
 Currently, copyright arises automatically, which means that many works are subject to copyright even though their creators are happy for them to be shared - or they remain subject to copyright many years after the creator has ceased to care if they are shared
 <h2>A fee</h2>
@@ -94,17 +95,17 @@ Copyright would be limited to verbatim copying of a work. If you wanted to build
 <h2>Step One:</h2>
 Create the work.
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-16.png"><img class="alignnone size-medium wp-image-509" src="https://livinglibre1.files.wordpress.com/2014/10/image-16.png?w=300" alt="image 16" width="300" height="300" /></a>
+<img class="alignnone size-medium wp-image-509" src="http://thebillby.github.io/images/thesis_summary/image%2016.png" alt="image 16" width="300" height="300" />
 <h2>Step Two:</h2>
 Distribute it however you like
 <blockquote>
 <h3>Rule 1</h3>
 Automatic complete copyright protection for the first year after publication</blockquote>
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-17.png"><img class="alignnone size-medium wp-image-510" src="https://livinglibre1.files.wordpress.com/2014/10/image-17.png?w=300" alt="image 17" width="300" height="300" /></a>
+<img class="alignnone size-medium wp-image-510" src="http://thebillby.github.io/images/thesis_summary/image%2017.png?w=300" alt="image 17" width="300" height="300" />
 <h2>Step Three:</h2>
 After a year, assess the work and make a few decisions:
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-18.png"><img class="alignnone size-medium wp-image-511" src="https://livinglibre1.files.wordpress.com/2014/10/image-18.png?w=300" alt="image 18" width="300" height="159" /></a>
+<img class="alignnone size-medium wp-image-511" src="http://thebillby.github.io/images/thesis_summary/image%2018.png" alt="image 18" width="300" height="159" /></a>
 <blockquote>
 <h3>Rule 2</h3>
 The copyright registration is the definitive source of who the creators are, where to contact them, what the copyright conditions are, etc.
@@ -114,21 +115,22 @@ If you sell the copyright monopoly to another, this must be recorded along with 
 The registered copy or copies of the work are the definitive ones.</blockquote>
 <h2>Step Four:</h2>
 Decide how extensively you want to limit access to the work:
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/image-19.png"><img class="alignnone wp-image-512 size-full" src="https://livinglibre1.files.wordpress.com/2014/10/image-19.png" alt="image 19" width="142" height="142" /></a>Do not register it/Register it as unlimited</h3>
+<h3><img class="alignnone wp-image-512 size-full" src="http://thebillby.github.io/images/thesis_summary/image%2019.png" alt="image 19" width="142" height="142" />
+Do not register it/Register it as unlimited</h3>
 No copyright protection exists.
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/image-20.png"><img class="alignnone size-full wp-image-513" src="https://livinglibre1.files.wordpress.com/2014/10/image-20.png" alt="image 20" width="231" height="165" /></a>Libre limitation</h3>
+<h3><img class="alignnone size-full wp-image-513" src="http://thebillby.github.io/images/thesis_summary/image%2020.png" alt="image 20" width="231" height="165" /></a>Libre limitation</h3>
 The only limits that apply to this work are moral conditions (see below).
 
 <strong>Fee:</strong> None.
 <strong>Duration:</strong> Until your death.
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/image-21.png"><img class="alignnone size-full wp-image-514" src="https://livinglibre1.files.wordpress.com/2014/10/image-21.png" alt="image 21" width="231" height="166" /></a>Partial limitation</h3>
+<h3><img class="alignnone size-full wp-image-514" src="http://thebillby.github.io/images/thesis_summary/image%2021.png" alt="image 21" width="231" height="166" />Partial limitation</h3>
 Copying the work is forbidden, but performing the work or adapting it (like writing a sequel, turning it into a stage play, sampling the song in your own song, etc.) is legal.
 
 Also can have moral conditions attached.
 
 <strong>Fee:</strong> Annual renewal fee of $50, plus 5% of the revenue you make from the creative work.
 <strong>Duration:</strong> 28 years.
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/image-22.png"><img class="alignnone size-full wp-image-515" src="https://livinglibre1.files.wordpress.com/2014/10/image-22.png" alt="image 22" width="142" height="142" /></a>Full limitation</h3>
+<h3><img class="alignnone size-full wp-image-515" src="http://thebillby.github.io/images/thesis_summary/image%2022.png" alt="image 22" width="142" height="142" />Full limitation</h3>
 The work cannot be reproduced, copied, adapted, performed, etc. Very similar to current copyright.
 
 Moral conditions are redundant.
@@ -143,26 +145,26 @@ Decide what other conditions you want attached to the work.
 **Duration:** Life of the author  
 **Fee:** None, but must be renewed every 10 years
 
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/image-23.png"><img class="alignnone wp-image-516 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/image-23.png?w=150" alt="image 23" width="150" height="150" /></a>Attribution</h3>
+<h3><img class="alignnone wp-image-516 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/image%2023.png" alt="image 23" width="150" height="150" />Attribution</h3>
 Give reasonable credit to the creator
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/rect2991-4-2-1.png"><img class="alignnone wp-image-518 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/rect2991-4-2-1.png?w=150" alt="rect2991-4-2-1" width="150" height="150" /></a>Non-association</h3>
+<h3><img class="alignnone wp-image-518 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/image%2023.png" alt="rect2991-4-2-1" width="150" height="150" /></a>Non-association</h3>
 Re-uses of the work must not promote the work by using the name of the creator or the title of the original work
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/text4849-9-7-5-7.png"><img class="alignnone wp-image-521 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/text4849-9-7-5-7.png?w=150" alt="text4849-9-7-5-7" width="150" height="150" /></a>Reciprocity</h3>
+<h3><img class="alignnone wp-image-521 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/text4849-9-7-5-7.png" alt="text4849-9-7-5-7" width="150" height="150" />Reciprocity</h3>
 Re-uses of the work must not be under a stricter monopoly than the original work.
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/rect2991-4-2-1-8-4.png"><img class="alignnone wp-image-520 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/rect2991-4-2-1-8-4.png?w=150" alt="rect2991-4-2-1-8-4" width="150" height="150" /></a>Universal provision</h3>
+<h3><img class="alignnone wp-image-520 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/rect2991-4-2-1-8-4.png" alt="rect2991-4-2-1-8-4" width="150" height="150" />Universal provision</h3>
 Re-uses of the work must be available to all people at no cost, such as through a free download
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/rect2991-4-2-1-8.png"><img class="alignnone wp-image-519 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/rect2991-4-2-1-8.png?w=150" alt="rect2991-4-2-1-8" width="150" height="150" /></a>Information</h3>
+<h3><img class="alignnone wp-image-519 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/rect2991-4-2-1-8.png?w=150" alt="rect2991-4-2-1-8" width="150" height="150" />Information</h3>
 The creator must be told when the work is being re-used and a copy given to the creator on request
-<h3><a href="https://livinglibre1.files.wordpress.com/2014/10/text7156.png"><img class="alignnone wp-image-522 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/text7156.png?w=150" alt="text7156" width="150" height="150" /></a>Shared source</h3>
+<h3><img class="alignnone wp-image-522 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/text7156.png?w=150" alt="text7156" width="150" height="150" />Shared source</h3>
 Re-uses of the work must make the read-write source files of the work available
 <h2> Examples</h2>
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-22.png"><img class="alignnone size-full wp-image-515" src="https://livinglibre1.files.wordpress.com/2014/10/image-22.png" alt="image 22" width="142" height="142" /></a>We made a movie. It'll open in cinemas, move to DVD within a year, appear on free to air TV within a few years, have a brief merchandising burst and have made the vast majority of its earnings in the first five years. The full limitation is ideal for us.
+<img class="alignnone size-full wp-image-515" src="http://thebillby.github.io/images/thesis_summary/image%2022.png" alt="image 22" width="142" height="142" />We made a movie. It'll open in cinemas, move to DVD within a year, appear on free to air TV within a few years, have a brief merchandising burst and have made the vast majority of its earnings in the first five years. The full limitation is ideal for us.
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/3.png"><img class="alignnone wp-image-530 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/3.png?w=150" alt="3" width="150" height="109" /></a>I'm an academic. I get tenure if enough people read and cite my papers. I want practically nothing to get in the way of that - except I'd like to know when my paper is used so I can tell the dean!
+<img class="alignnone wp-image-530 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/3.png" alt="3" width="150" height="109" />I'm an academic. I get tenure if enough people read and cite my papers. I want practically nothing to get in the way of that - except I'd like to know when my paper is used so I can tell the dean!
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/4.png"><img class="alignnone wp-image-531 size-thumbnail" src="https://livinglibre1.files.wordpress.com/2014/10/4.png?w=150" alt="4" width="150" height="97" /></a>I'm a musician. Buy my album - don't download it! But if you want to play my songs in the pub or sample a beat in your own songs, go for it!
+<img class="alignnone wp-image-531 size-thumbnail" src="http://thebillby.github.io/images/thesis_summary/4.png" alt="4" width="150" height="97" />I'm a musician. Buy my album - don't download it! But if you want to play my songs in the pub or sample a beat in your own songs, go for it!
 
-<a href="https://livinglibre1.files.wordpress.com/2014/10/image-19.png"><img class="alignnone size-full wp-image-512" src="https://livinglibre1.files.wordpress.com/2014/10/image-19.png" alt="image 19" width="142" height="142" /></a>That Facebook status update I just made? Yeah, that's not going to need copyright protection.
+<img class="alignnone size-full wp-image-512" src="http://thebillby.github.io/images/thesis_summary/image%2019.png" alt="image 19" width="142" height="142" />That Facebook status update I just made? Yeah, that's not going to need copyright protection.
 
 <hr />
 <p style="text-align:center;">And there it is! Please let me know what you think.</p>
