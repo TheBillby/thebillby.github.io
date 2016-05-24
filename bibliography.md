@@ -5,8 +5,20 @@ permalink: /bibliography/
 ---
 
 # Books
-* [Share This Book](https://livinglibre1.wordpress.com/share-this-book/), April 2011
-* [A Free, Libre and Open Glossary](http://faow.referata.com/wiki/A_Free,_Libre_and_Open_Glossary), August 2013
+## [Share This Book](https://livinglibre1.wordpress.com/share-this-book/) ##
+April 2011
+
+## A Free, Libre and Open Glossary ##
+August 2013, updated September 2014
+
+Release 1
+* [ODT](/downloads/A%20Free%2C%20Libre%20and%20Open%20Glossary/A%20Free%20Libre%20Open%20Glossary%20(final).odt)
+* [PDF](/downloads/A%20Free%2C%20Libre%20and%20Open%20Glossary/A%20Free%2C%20Libre%20and%20Open%20Glossary%20(final).pdf)
+
+Release 2
+* [PDF](/downloads/A%20Free%2C%20Libre%20and%20Open%20Glossary/a-flo-glossary.pdf)
+* [XML](/downloads/A%20Free%2C%20Libre%20and%20Open%20Glossary/AFloGlossary.xml)
+ * [HTML](/downloads/A%20Free%2C%20Libre%20and%20Open%20Glossary/A%20Free%2C%20Libre%20and%20Open%20Glossary.html)
 
 # Articles
 * ["New glossary helps break down common open source related terms"](https://opensource.com/life/13/8/free-libre-open-glossary), _Opensource.com_, 23 August 2013
@@ -25,7 +37,7 @@ permalink: /bibliography/
 * http://livinglibre1.wordpress.com (2011- )
 
 # Art
-* sanglorian.deviantart.com
+* http://sanglorian.deviantart.com
 
 # Tabletop Gaming
 * [Grim Portents](grimportents.wordpress.com) (2013- )

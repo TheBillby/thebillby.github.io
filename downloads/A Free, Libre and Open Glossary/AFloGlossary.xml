@@ -1,0 +1,595 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "docbookV4.5/docbookx.dtd" []>
+<book>
+  <title>A Free, Libre and Open Glossary</title>
+  <subtitle>DRAFT - STILL LEARNING XML</subtitle>
+  <bookinfo>
+    <copyright>
+      <year>2013</year>
+      <year>2014</year>
+      <holder>Chris Sakkas</holder>
+    </copyright>
+    <author>
+      <firstname>Chris</firstname>
+      <surname>Sakkas</surname>
+    </author>
+    <legalnotice>
+      <para>This work is licensed under the <emphasis role="bold">Creative Commons Attribution-ShareAlike</emphasis> 3.0 Unported License. To view a copy of this license, visit <ulink url="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</ulink>.</para>
+    </legalnotice>
+    <releaseinfo>Second release. First XML-based release.</releaseinfo>
+    <pubdate>2014-09-10</pubdate>
+    <edition>2</edition>
+  </bookinfo>
+  <preface>
+    <title>Preface</title>
+    <para><blockquote>
+        <para>What’s the difference between open source and crowdsourcing?
+</para>
+        <para>Why does free software cost money?
+</para>
+        <para>How can a work be under an open knowledge licence yet not be open knowledge?</para>
+      </blockquote></para>
+    <para>The Free, Libre and Open Glossary also exists as a living document. Visit this page to view and edit the most recent version: <ulink url="http://okfnpad.org/UEVd4jV2cB">http://okfnpad.org/UEVd4jV2cB</ulink></para>
+    <para>Written with help from friends in the free culture and open knowledge communities.</para>
+    <para>This work uses Australian spelling, so ‘licence’ is the noun and ‘to license’ is the verb. However,  proper nouns—like the GNU General Public License—have not had their spelling altered.</para>
+  </preface>
+  <chapter>
+    <title>One page summary</title>
+    <sect1>
+      <title>What FLO is:</title>
+      <para>The words <firstterm>free</firstterm>, <firstterm>libre</firstterm> and <firstterm>open</firstterm>, or the acronym that combines them, <firstterm>FLO</firstterm>, describe works <emphasis>that can be shared and adapted by any person for any purpose without infringing copyright law</emphasis>. A few restrictions on this sharing are acceptable, such as that the original creator is credited or that derivative works are released under the same licence as the original (<firstterm>share-alike</firstterm>).</para>
+    </sect1>
+    <sect1>
+      <title>What FLO might be:</title>
+      <para><emphasis role="italic">Some FLO works are free of charge (also called <firstterm>gratis</firstterm>).</emphasis> However, not all of them are. The <quote>free</quote> in this context refers to <quote>free from restrictions</quote>, not <quote>free of charge</quote>.
+</para>
+      <para><emphasis role="italic">Some FLO works are <firstterm>crowdsourced</firstterm>:</emphasis> they are created and improved upon by the community, rather than a company or an individual. However, others are created in house. The term <quote>open sourcing</quote> is sometimes wrongly used for <quote>crowdsourcing</quote>.
+</para>
+      <para><emphasis role="italic">Some FLO works are <firstterm>open access</firstterm>:</emphasis> they are available online for anyone to read without charge.</para>
+    </sect1>
+    <sect1>
+      <title>What FLO isn&apos;t:</title>
+      <para>Some works are free to share and adapt, but not for commercial purposes. Others are free to share, but only verbatim. These works are not FLO, because they are too restrictive.
+</para>
+      <para>Some works have their source code available, but normal copyright restrictions apply to modifications or re-uses of that code. These works are not FLO.</para>
+    </sect1>
+  </chapter>
+  <chapter>
+    <title>Free, libre and open (FLO)</title>
+    <para>The words <firstterm>free</firstterm>, <firstterm>libre</firstterm> and <firstterm>open</firstterm> are used synonymously or together (<firstterm>F/O</firstterm> or <firstterm>FLO</firstterm>) to describe works that can be shared and adapted by any person for any purpose without infringing copyright law. There may be conditions to this use attached, if those conditions do not limit how the work can be shared and adapted or who can share and adapt it.
+</para>
+    <para>This fairly simple definition is complicated by the number of terms that describe the same or slightly different concept, such as free software, open source software, open content and free cultural works. In some cases, these terms are more restrictive: a work can be under a FLO licence but not qualify as a free cultural work or open knowledge. However, most of the terms describe the same works (free software and open source software) or distinguish between types of FLO work (open data and open source software), not what freedoms are granted for that work.
+</para>
+    <para>A non-FLO work (also called a <firstterm>proprietary work</firstterm>) is one that does not satisfy this definition. This includes works that grant a little but not enough freedom. For example, a work under a Creative Commons licence with the NonCommercial terms is non-FLO. Compare solitary confinement with a minimum security prison: the latter is more free, but neither is free.</para>
+    <sect1>
+      <title>Free as in speech, not free as in beer</title>
+      <para>The word <quote>free</quote> in English means both <quote>no cost</quote> and <quote>without restrictions</quote>. In this article, it is meant in the sense of <quote>freedom</quote>, not <quote>free of charge</quote>. The community has borrowed the words gratis and libre from the Romance languages to distinguish between these two concepts. Libre is a synonym for <quote>free as in freedom</quote>. <quote>Gratis</quote> describes anything that is available free of charge.</para>
+    </sect1>
+    <sect1>
+      <title>Permissive and copyleft: the two forms of FLO</title>
+      <sect2>
+        <title>Permissive</title>
+        <para>Permissive works do not require adaptations to be released under a particular licence. Rarely, the term <firstterm>copyfree</firstterm> is used instead.</para>
+        <para>For example, if you turned <emphasis role="italic">Big Buck Bunny</emphasis> (a Creative Commons Attribution movie) into a video clip for a song, you wouldn’t need to apply any licence. It could legally remain all rights reserved.</para>
+      </sect2>
+      <sect2>
+        <title>No restrictions</title>
+        <para>A subset of permissive works are works without any copyright restrictions, such as works that are in the public domain in every country. There are also licences, like the <quote>Give It Your Own License, License</quote>, which remove all copyright restrictions.</para>
+      </sect2>
+      <sect2>
+        <title>Copyleft</title>
+        <para>When a copyleft work is adapted the adaptation must be released under the same or similar FLO licence as the original.
+For example, if I translated a Wikipedia article (under the Creative Commons Attribution-ShareAlike licence) into Esperanto, the translation would have to be licensed under that licence too.&#160;
+</para>
+        <para><firstterm>Reciprocal</firstterm> and <firstterm>viral</firstterm> are sometimes used as synonyms for copyleft. However, copyleft does not act like a virus. As Richard Stallman says: <quote>A spider plant is a more accurate comparison; it [grows in] another place if you actively take a cutting</quote>.
+</para>
+        <para><firstterm>Share-alike</firstterm> is broader than copyleft: it includes copyleft, but also non-FLO licences that have a similar condition. (<ulink url="http://robmyers.org/2008/02/24/noncommercial-sharealike-is-not-copyleft/">http://robmyers.org/2008/02/24/noncommercial-sharealike-is-not-copyleft/</ulink>)</para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Making works FLO</title>
+      <para>There are three ways that a work might become FLO.</para>
+      <sect2>
+        <title>Statute</title>
+        <para>A piece of legislation could grant permissions outside of normal copyright law. The most obvious example is the public domain, which describes works outside of the area of copyright restrictions.&#160;
+</para>
+        <para>For a work to qualify as FLO, it must be usable by any person. Works that are in the public domain in only some countries will not qualify.</para>
+      </sect2>
+      <sect2>
+        <title>Licence</title>
+        <para>There are hundreds of FLO licences. The benefits of such licences are that they are ideally unambiguous and they apply in all jurisdictions.</para>
+      </sect2>
+      <sect2>
+        <title>Declaration</title>
+        <para>Some people simply express their intention that a work is free from some or all copyright restrictions. They may not be interested in applying a licence or may reject legalistic culture altogether.
+</para>
+        <para>A modern example is Nina Paley’s Copyheart: <quote>Copying is an act of love. Please copy.</quote> (<ulink url="http://copyheart.org/">http://copyheart.org/</ulink>)
+</para>
+        <para>These declarations are dangerous because their legal status is unclear. Can it be reneged upon later (perhaps by inheritors)? 
+Folk musician Woodie Guthrie included a notice on his recordings: <quote>This song is Copyrighted in U.S. … and anybody caught singin it without our permission, will be mighty good friends of ourn, cause we don’t give a dern. Publish it. Write it. Sing it. Swing to it. Yodel it. We wrote it, that’s all we wanted to do</quote>.
+</para>
+        <para>A number of organisations still claim copyright over Guthrie’s songs.</para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Types of works</title>
+      <sect2>
+        <title>Software</title>
+        <para><firstterm>F/OSS</firstterm> (free/open source software) or <firstterm>FLOSS</firstterm> (free, libre and open source software) draw on three terms for FLO software:</para>
+        <para><emphasis role="bold">Software libre/libre software: </emphasis>A synonym for free software that emphasises freedom over openness, but avoids the gratis‒libre ambiguity. </para>
+        <para><emphasis role="bold">Open source software: </emphasis>A synonym for free software that avoids the gratis‒libre ambiguity but removes the emphasis on rights and freedoms (see <quote>The free/open divide</quote> below).
+</para>
+        <para><emphasis role="bold">Free software: </emphasis>The original term for FLO software. Not to be confused with <firstterm>freeware</firstterm>, which describes software that is free of charge.
+</para>
+      </sect2>
+      <sect2>
+        <title>Open knowledge and free cultural works</title>
+        <para><emphasis role="bold">Free cultural works:</emphasis> Free cultural works are those that are under a free cultural licence and that meet these further requirements:</para>
+        <itemizedlist>
+          <listitem>
+            <para>The source data must be available
+</para>
+          </listitem>
+          <listitem>
+            <para>It must be available in a free file format
+</para>
+          </listitem>
+          <listitem>
+            <para>Not under technical restrictions like DRM
+</para>
+          </listitem>
+          <listitem>
+            <para>Not under legal restrictions like a non-disclosure clause</para>
+          </listitem>
+        </itemizedlist>
+        <para>It is possible for a work to be under a FLO licence but not meet these further requirements. For example, a song under a FLO licence only available for download in the proprietary MP3 format would not qualify (as soon as someone downloaded it and converted it to the free file format OGG, it would become a free cultural work, however). Nor would <emphasis role="italic">Fantastique Unfettered</emphasis>, which is under a FLO licence but only available in hardcopy.</para>
+        <para><emphasis role="bold">Free content:</emphasis> A generic term for a free cultural work.&#160;
+</para>
+        <para><emphasis role="bold">Open knowledge:</emphasis> Open knowledge describes content and data that is under an open knowledge licence and that meets the further requirements of open knowledge as described in the Open Definition. Significantly:</para>
+        <para/>
+        <itemizedlist>
+          <listitem>
+            <para>It must be available in a modifiable form for no more than a reasonable reproduction cost
+</para>
+          </listitem>
+          <listitem>
+            <para>Not under technical restrictions like DRM</para>
+          </listitem>
+          <listitem>
+            <para>Not under legal restrictions like a non-disclosure clause</para>
+          </listitem>
+        </itemizedlist>
+        <para>As with free cultural works, it is possible for a work to be under a FLO licence but not meet these further requirements.</para>
+        <para>Interestingly, it is possible for a work to qualify as a free cultural work but not as open knowledge, and vice versa. Open knowledge does not need to be available in a free file format; free cultural works do. Open knowledge needs to be available for no more than reasonable reproduction cost; for free cultural works, only the ‘source data’ must be available.&#160;
+</para>
+        <para><emphasis role="bold">Open data:</emphasis> Open data is a form of open knowledge.&#160;
+</para>
+        <para><emphasis role="bold">Open content:</emphasis> Open content has been used in two senses.&#160;
+</para>
+        <para><emphasis role="italic">Open knowledge that is not data.</emphasis> This is the definition used by the Open Knowledge Foundation. Under this definition, open content is FLO.&#160;
+</para>
+        <para><emphasis role="italic">Works that are under fewer copyright restrictions than standard copyright law allows.</emphasis> In this definition, openness is a continuum: a work is more open than others if it allows reuse, revision, remixing and redistribution. This the definition used by David Wiley.&#160;
+</para>
+        <para>This glossary uses the former definition. The latter definition does not clearly delimit works (the removal of a single copyright restriction qualifies, as does the removal of all restrictions). In addition, the former definition matches open source, whereas the latter is much broader.</para>
+      </sect2>
+      <sect2>
+        <title>Other</title>
+        <para><emphasis role="bold">Free file format: </emphasis>A free file format is publicly available in its entirety and not encumbered by copyright, patent, trade mark or other legal restrictions. Defined by LINFO.
+</para>
+        <para><emphasis role="bold">Open format:</emphasis> According to LINFO, an open format is publicly available but may be encumbered by legal restrictions. My preference would be to use <quote>free file format</quote> and <quote>open file format</quote> as synonyms, and describe publicly available formats as <quote>public file formats</quote>.
+</para>
+        <para><emphasis role="bold">Free/libre protocols and open standards:</emphasis> For a definition of open standards, see Krechmer&apos;s definitive work: <ulink url="http://www.csrstds.com/openstds.html">http://www.csrstds.com/openstds.html</ulink>
+</para>
+        <para><emphasis role="bold">Open source hardware/open hardware:</emphasis> Open source hardware describes physical technology that is under FLO licences or free from patent restrictions, as appropriate. FLO licences usually only concern copyright law, not patent law, but hardware could infringe both copyright and patent law.</para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Works under FLO licences that do not meet other criteria</title>
+      <para>To qualify as FLO, software must have its source code available. The Free Software Definition makes this clear in freedoms two and four. The Open Source Definition requires that programs <quote>include source code</quote> or provide <quote>a means of [cheaply] obtaining the source code</quote>.
+</para>
+      <para>As such, a program could be under a FLO licence (or even public domain) but not FLO if its code was lost.&#160;
+</para>
+      <para>It is unclear how this rule applies to creative works other than software. Programs are modified and adapted through their source code, and it is difficult or impossible to reverse engineer that code if it is not available. The same is not true for a hardcopy book, which can be transcribed or scanned with OCR (optical character recognition).&#160;
+</para>
+      <para>The Open Knowledge Definition and the Definition of Free Cultural Works touch on this issue. To qualify as a free cultural work,&#160;</para>
+      <itemizedlist>
+        <listitem>
+          <para>The source data must be available</para>
+        </listitem>
+        <listitem>
+          <para>It must be available in a free file format (not encumbered by patents or copyright)
+</para>
+        </listitem>
+        <listitem>
+          <para>Not under technical restrictions like DRM
+</para>
+        </listitem>
+        <listitem>
+          <para>Not under legal restrictions like a non-disclosure clause</para>
+        </listitem>
+      </itemizedlist>
+      <para>To qualify as open knowledge,</para>
+      <itemizedlist>
+        <listitem>
+          <para>It must be available in a modifiable form for no more than a reasonable reproduction cost
+</para>
+        </listitem>
+        <listitem>
+          <para>Not under technical restrictions like DRM
+</para>
+        </listitem>
+        <listitem>
+          <para>Not under legal restrictions like a non-disclosure clause</para>
+        </listitem>
+      </itemizedlist>
+      <para>Both of these definitions make it clear that a work only available in hardcopy is not a free cultural work/open knowledge, even if it were under a FLO licence and easily scanned and placed it.&#160;
+</para>
+      <para>However, it is still not clear what a ‘modifiable form’ is or what qualifies as ‘source data’. Is a scanned image (under a FLO licence) of a completed painting in a free file format a free cultural work? What about a photograph that has been manipulated in a computer program but the original has been lost?
+</para>
+      <para>This glossary describes works as FLO if (a) they are software, they are under a FLO licence and their source is available or (b) they are not software and they are under a FLO licence, even if they are only available in hardcopy or electronically but without source code.</para>
+    </sect1>
+    <sect1>
+      <title>Requirements on FLO licences</title>
+      <para>Although I haven’t found a declaration or definition that outlines these requirements, there is an assumption that a valid FLO licence:
+</para>
+      <itemizedlist>
+        <listitem>
+          <para>Is irrevocable once applied to a work and&#160;
+</para>
+        </listitem>
+        <listitem>
+          <para>Does not limit existing exemptions and rights.&#160;
+</para>
+        </listitem>
+      </itemizedlist>
+      <para>The former requirement is different from the public domain. Public domain works are FLO, but they could become non-FLO if legislation changes. No FLO licence allows this revision or revocation.
+</para>
+      <para>With regards to the latter requirement, this means that a FLO licence cannot diminish existing rights and permissions. For example, the Open Game License allows you to use content from the Dungeons &amp; Dragons roleplaying game, but only if you don’t use certain words like ‘yuan-ti’ and ‘illithid’. Since these words are not protected by copyright law, this is an additional requirement—making the licence non-FLO.
+</para>
+      <para>The Open Game License could be revised to avoid this by saying that the licence does not grant permission to use words like ‘yuan-ti’ or ‘illithid’, but that it does not limit any existing right to use those words.</para>
+    </sect1>
+    <sect1>
+      <title>The free/open divide</title>
+      <para>Although free and open are synonyms, they emphasise different aspects of FLO works and licensing and the use of one over the other is highly politicised.&#160;
+</para>
+      <para>The term free software refers to freedom, and by extension rights and liberties. By contrast, the term open source was coined as a marketing exercise to make free software more palatable to business and government.&#160;
+</para>
+      <para>For free software advocates, FLO licences are an ethical imperative but ideally copyright reform would grant freedom to users of all computer software. In contrast, open source advocates argue that open source software is better for both software developers and consumers.&#160;
+</para>
+      <para>This ideological divide has blurred, in particular outside of the realm of software. The Open Knowledge Foundation, for example, seems to believe open knowledge is an ethical imperative.</para>
+      <para><emphasis role="italic">Further reading:</emphasis></para>
+      <para><quote>Why Open Source Misses the Point of Free Software</quote>, by Richard Stallman: <ulink url="http://www.gnu.org/philosophy/open-source-misses-the-point.html">http://www.gnu.org/philosophy/open-source-misses-the-point.html</ulink></para>
+      <para><quote>The Meme Hustler</quote>, an extensive article from <emphasis role="italic">The Baffler</emphasis> on Tim O&apos;Reilly, including his involvement in the re-branding of <quote>free software</quote> as <quote>open source software</quote> (<ulink url="http://www.thebaffler.com/past/the_meme_hustler">http://www.thebaffler.com/past/the_meme_hustler</ulink>; see also Richard Stallman&apos;s response: <ulink url="http://www.thebaffler.com/blog/2013/04/richard_stallman_responds">http://www.thebaffler.com/blog/2013/04/richard_stallman_responds</ulink>; see also a brief comment from Tim O&apos;Reilly: <ulink url="https://plus.google.com/u/0/+TimOReilly/posts/Q8EqCQJstBE">https://plus.google.com/u/0/+TimOReilly/posts/Q8EqCQJstBE</ulink>
+</para>
+    </sect1>
+  </chapter>
+  <chapter>
+    <title>Public copyright licences</title>
+    <para>A <firstterm>public copyright licence</firstterm> (or public licence) is a licence by which a licensor can grant additional copyright permissions to licensees and in which the licensees are unlimited. In other words, when a public copyright licence is applied to a work, it can be used by any person according to the conditions of the licence.&#160;
+</para>
+    <para>The New York Times also described these as <firstterm>open copyright licences</firstterm>, although this causes confusion with FLO licences, which are a subcategory of public copyright licences.&#160;
+</para>
+    <para>An example of a non‒public copyright licence is the (now deprecated) Creative Commons Developing Nations License, which only lessened restrictions on people living in certain countries (not unlimited licensees).</para>
+    <sect1>
+      <title>Narrower definition</title>
+      <para>The Open Knowledge Foundation has used a narrower definition of a public copyright licence, which is that the licensors and licensees are unlimited. In other words, any person could apply the public copyright licence to their works. Compare to the UK Open Government License, which would need to be re-written to be used by anyone other than the government of the United Kingdom. This glossary uses the broader definition.
+</para>
+      <para>The Open Definition describes copyright licences where the licensors are limited as <quote>non-reusable licences</quote>: <ulink url="http://opendefinition.org/licenses/">http://opendefinition.org/licenses/</ulink></para>
+    </sect1>
+    <sect1>
+      <title>Conditions</title>
+      <para>The most common conditions on public copyright licences are:
+</para>
+      <para><emphasis role="bold">Attribution:</emphasis> The re-user or adaptor must give credit to the original creator in a specified way. <emphasis role="italic"> Examples:</emphasis> All main Creative Commons licences, Open Game License.&#160;
+</para>
+      <para><emphasis role="bold">Integrity:</emphasis> The re-user or adaptor must not imply that the copy is endorsed by the original creator, and may have to explain how the work has been adapted. <emphasis role="italic"> Examples:</emphasis> All main Creative Commons licences, Open Game License.
+</para>
+      <para><emphasis role="bold">Share-alike:</emphasis> If you adapt the work, adaptations must be released under the same or a similar licence. Share-alike FLO licences are called copyleft or reciprocal. <emphasis role="italic"> Examples:</emphasis> CC Attribution-ShareAlike, GNU General Public License.&#160;
+</para>
+      <para><emphasis role="bold">Only adaptations:</emphasis> The work cannot be copied verbatim; it must be adapted or a work derived from it. The inclusion of this condition makes a licence non-FLO. <emphasis role="italic"> Examples:</emphasis> CC Sampling, some <quote>open supplement licences</quote>.&#160;
+</para>
+      <para><emphasis role="bold">Source provided:</emphasis> The re-user or adaptor must make the source code (including adaptations) easily accessible or publicly available. <emphasis role="italic"> Examples:</emphasis> GNU Affero General Public License.&#160;
+</para>
+      <para><emphasis role="bold">Noncommercial:</emphasis> The re-user or adaptor cannot make copies to profit. The inclusion of this condition makes a licence non-FLO. <emphasis role="italic"> Examples:</emphasis> OpenContent License, CC NonCommercial licenses.&#160;
+</para>
+      <para><emphasis role="bold">Verbatim:</emphasis> The re-user cannot adapt or modify the work. The inclusion of this condition makes a licence non-FLO. <emphasis role="italic"> Examples:</emphasis> CC Attribution-NoDerivatives.&#160;</para>
+      <sect2>
+        <title>What do the conditions appy to?</title>
+        <para>When a creator applies a public copyright licence to their works, they are removing restrictions on other people. They are not restricting themselves—or anyone that they contract with—in any way. For example, an author who uses the Creative Commons Attribution-NonCommercial licence can still reproduce it for commercial purposes themselves, or give permission to others to reproduce it commercially.</para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Shareable content</title>
+      <para>I use the term ‘shareable content’ (or ‘shareable resources’ or ‘shareable works’) to refer to works that can at least be shared verbatim by any person for non-commercial purposes without infringing copyright law. This includes all FLO works, as well as non-FLO works like those under Creative Commons licences with the NonCommercial and NoDerivatives terms.
+</para>
+      <para>I prefer this term to others, like David Wiley’s definition of ‘open content’, because it avoids re-using words like ‘libre’ and ‘open’ that are already used to describe FLO.&#160;
+</para>
+      <para>There is some overlap with works under public copyright licences, but it is not complete. For example, public domain works are shareable content, but they’re not under any licence. And there are public copyright licences that don’t create shareable content. For example, the Creative Commons Sampling License (now deprecated) allowed the work to be sampled, but not shared verbatim.</para>
+      <para><emphasis role="italic">Not to be confused with:</emphasis></para>
+      <itemizedlist>
+        <listitem>
+          <para>‘shareware’, which describes software provided on a limited basis; the user must pay to access the unencumbered product
+</para>
+        </listitem>
+        <listitem>
+          <para>share-alike licences</para>
+        </listitem>
+      </itemizedlist>
+    </sect1>
+  </chapter>
+  <chapter>
+    <title>Useful concepts</title>
+    <sect1>
+      <title>Intellectual property/IP</title>
+      <para>Intellectual property is the collective term for several independent areas of law: copyright law, trade mark law and patent law are the three most significant, but it also includes trade secrets, moral rights, appellations/geographical indications and a number of <emphasis role="italic">sui generis</emphasis> monopolies.
+</para>
+      <para>However, there are more differences between these areas of law than there are similarities, and widespread use of the term intellectual property dates only to the second half of the 20th century. Copyright law, patent law and trade mark law protect different things in different ways from different sorts of infringement.&#160;
+</para>
+      <para>It is rare that the term <quote>intellectual property</quote> is necessary or even useful. It&apos;s better to refer to the specific area of the law—whether it&apos;s trade mark, copyright or patent—than the generic <quote>intellectual property</quote>.
+</para>
+      <para>There are a number of backronyms from the initialism IP. Two examples are <quote>imaginary property</quote> and <quote>intellectual protectionism</quote>.
+</para>
+      <para><emphasis role="italic">Further reading:</emphasis>&#160;
+</para>
+      <para><quote>Did You Say <quote>Intellectual Property</quote>? It&apos;s a Seductive Mirage</quote>, by Richard Stallman: <ulink url="http://www.gnu.org/philosophy/not-ipr.html">http://www.gnu.org/philosophy/not-ipr.html</ulink></para>
+      <sect2>
+        <title>Copyright</title>
+        <para>Copyright law grants copyright holders the power to restrict other people’s use of their work or grant permissions to other people. A licence works within copyright law: the copyright holder is exercising their power to grant permissions.</para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Methods and doctrines</title>
+      <sect2>
+        <title>&quot;The open source way&quot;</title>
+        <para>Red Hat and their community website opensource.com coined the term <quote>open source way</quote> to describe a pro-sharing, pro-collaborative, pro-transparency, pro-accessibility, ethical approach. </para>
+        <para>This describes a broad philosophy inspired by the crowdsourced method by which much open source software is developed.
+</para>
+        <para><emphasis role="italic">Further reading: </emphasis></para>
+        <para><emphasis role="italic">The Open Source Way</emphasis>, Red Hat: <ulink url="http://www.theopensourceway.org/book/index.html">http://www.theopensourceway.org/book/index.html</ulink></para>
+      </sect2>
+      <sect2>
+        <title>Open government</title>
+        <para>Open government (also called open governance) is the notion that citizens should have access to the documents of government: the text of statutes, the reasons for decisions, internal reports, and so on.
+</para>
+        <para><emphasis role="bold">Relationship to FLO:</emphasis> As long as the works are readily accessible, they may remain non-FLO. They do not even need to be open access or gratis: information that is available for a nominal fee or available in libraries but not online can still enable open government.</para>
+      </sect2>
+      <sect2>
+        <title>Open marketing</title>
+        <para>Open marketing describes totally transparent marketing by a company or project, to the extent possible in law. </para>
+        <para><emphasis role="italic">Not to be confused with: </emphasis></para>
+        <para>Other terms for <quote>open</quote>, some of which—like open government—are also concerned with transparency.</para>
+      </sect2>
+      <sect2>
+        <title>Crowdsourcing</title>
+        <para>Crowdsourcing (a portmanteau of <quote>outsourcing to the crowd</quote>) is the process of obtaining content, goods or services by putting out a call to the community at large rather than assigning the task to a specific person. The term was coined in 2005 by two editors at Wired Magazine.
+</para>
+        <para>Sometimes, crowdsourcing is cooperative. For example, Wikipedia is a crowdsourced encyclopedia where people—on their own initiative—write and edit articles. However, it can also be competitive, such as a company that awarded a prize to whomever created the best logo.
+</para>
+        <para>Crowdsourcing is often used more narrowly than this, to refer specifically to a project that uses ‘the crowd&apos; to provide data. For example, asking people around the world to record the daily temperature or test radiation levels.&#160;
+</para>
+        <para>Crowdfunding also depends on the crowd, but in this case it is money that is solicited rather than labour.&#160;
+</para>
+        <para><emphasis role="italic">Examples include: </emphasis></para>
+        <para>Zooniverse, where members of the general public contribute to scientific research by doing low-skill, low-commitment tasks that are beyond the ability of a computer. <ulink url="https://www.zooniverse.org/">https://www.zooniverse.org/</ulink>
+</para>
+        <para>TopCoder, where almost 500,000 members complete atomised tasks for small rewards, with the accumulative result being a solution to the problem. <ulink url="http://www.topcoder.com/whatiseoi/">http://www.topcoder.com/whatiseoi/</ulink>
+</para>
+        <para>Significantly, neither of these communities are FLO.
+</para>
+        <para>See the Wikipedia article on this topic for many examples: <ulink url="http://en.wikipedia.org/wiki/Crowdsourcing">http://en.wikipedia.org/wiki/Crowdsourcing</ulink>
+</para>
+        <para><emphasis role="italic">Not be be confused with open source</emphasis>
+</para>
+        <para>The term open source is often misused to describe crowdsourcing instead. One reason for this may be the term <quote>source</quote>. In open source software, it refers to the source code that makes up the program. But source is also used as a verb, to acquire something.
+The confusion is exacerbated because open source lends itself to being crowdsourced. There are a few reasons for this:</para>
+        <itemizedlist>
+          <listitem>
+            <para>Because open source software can be copied by anyone, it is more difficult to profit from it using traditional business methods. The crowd may not desire compensation.
+</para>
+          </listitem>
+          <listitem>
+            <para>Because open source code can be legally duplicated, forked and rewritten, it is particularly easy for the crowd to get involved—they do not need permission from or the copyright holder.
+</para>
+          </listitem>
+          <listitem>
+            <para>Because open source software must have its source code be publicly available, it is possible for others to contribute to it.</para>
+          </listitem>
+        </itemizedlist>
+        <para>However, there is no need for open source to be crowdsourced, and non-FLO content can be crowdsourced. Open source software can be developed in house with no input from the community (the community could fork the code, but the software itself is not crowdsourced).
+</para>
+        <para>There are a number of terms that confuse crowdsourcing with open source. Examples include:
+</para>
+        <para><emphasis role="bold">Open source governance:</emphasis> This model of governance gives ordinary citizens the power to draft policy and directly affect the government.
+</para>
+        <para><emphasis role="bold">Open source journalism:</emphasis> Originally, crowdsourced or participatory journalism. Increasingly used to describe participatory, transparent or FLO journalism. </para>
+        <para><emphasis role="bold">Open source intelligence:</emphasis> Intelligence collected from public sources.</para>
+      </sect2>
+      <sect2>
+        <title>Crowdfunding</title>
+        <para>Crowdfunding (also called crowd financing and crowdsourced fundraising) is the financing of a project through the contributions (typically small) of many individuals. An example is IndieGoGo.
+</para>
+        <para><emphasis role="bold">Relationship to FLO:</emphasis> While some FLO projects are crowdfunded, many are financed through traditional methods (or not at all).</para>
+      </sect2>
+      <sect2>
+        <title>Pay-what-you-want</title>
+        <para>When a good or service is available on a <firstterm>pay-what-you-want</firstterm> basis, the customer decides how much to pay. Sometimes, a floor or ceiling price is in place, or perks may encourage payments at particular levels.
+</para>
+        <para>Some FLO projects use a pay-what-you-want system. An example is the Commonly Open Bundle. People who contributed any amount of money received a download link with the assets. This also had a ransom element—because the bundle raised $10,000, the assets are licensed under Creative Commons Zero.&#160;
+</para>
+        <para>Donations are not really pay-what-you-want, because there is no good or service to be exchanged. The donation isn’t required to access the work.</para>
+      </sect2>
+      <sect2>
+        <title>Shareware</title>
+        <para>Shareware describes software provided on a limited basis; the user must pay to access the unencumbered product. The name is deceptive.&#160;
+</para>
+        <para><emphasis role="italic">Not to be confused with:</emphasis>&#160;
+</para>
+        <itemizedlist>
+          <listitem>
+            <para>shareable content
+</para>
+          </listitem>
+          <listitem>
+            <para>shared source</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+      <sect2>
+        <title>Fund and release</title>
+        <para>Fund and release describes a family of methods of financing works. The common feature is that the creator or copyright holder (or potential creator, if the work does not yet exist) promises to release a work to the public if he or she receives a set amount of money. This money is either held in escrow or only pledged.&#160;
+</para>
+        <para>In the threshold pledge system, the money is only released to the creator after the entire sum has been pledged. This is a way of guaranteeing to each donor that they will only be charged if enough money is raised for the work to be publicly released. Kickstarter uses the threshold pledge system, both for FLO and non-FLO works.&#160;
+</para>
+        <para>The street performer protocol, on the other hand, only delivers the money to the creator upon delivery of the work. This is a way of guaranteeing that the creator does not cut and run with the money. While the authors who coined this term described the release of public domain works as an application of the protocol, the protocol could also be applied to proprietary works.
+</para>
+        <para>Where the fund and release model is used to release FLO works, it could be described as a <quote>copyright buy-out</quote>.&#160;
+</para>
+        <para><emphasis role="italic">Further reading: </emphasis></para>
+        <para><quote>Electronic Commerce and the Street Performer Protocol</quote>, Kelsey and Schneier: <ulink url="http://www.schneier.com/paper-street-performer.pdf">http://www.schneier.com/paper-street-performer.pdf</ulink>
+</para>
+        <para><quote>Declared Value System</quote>, Karl Fogel: <ulink url="http://falkvinge.net/2012/12/10/declared-value-system/">http://falkvinge.net/2012/12/10/declared-value-system/</ulink></para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Non-FLO concepts</title>
+      <sect2>
+        <title>Proprietary/Non-FLO</title>
+        <para>In the area of copyright, a ‘proprietary’ work is one that is not FLO. There is proprietary shareable content as well as FLO shareable content; non-shareable content is always proprietary.</para>
+      </sect2>
+      <sect2>
+        <title>Freeware/Gratis</title>
+        <para>As discussed above, the term <quote>free</quote> in <quote>free, libre and open</quote> means <quote>free from restrictions</quote>, not <quote>free of charge</quote>. The term <quote>freeware</quote> refers to software that is distributed for no cost. <quote>Gratis</quote> is a broader term that refers to anything distributed for no cost.
+</para>
+        <para><emphasis role="italic">See also: </emphasis></para>
+        <itemizedlist>
+          <listitem>
+            <para>shareware, which describes encumbered versions of software distributed for no cost.
+</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+      <sect2>
+        <title>DRM</title>
+        <para>The euphemistically named <firstterm>Digital Rights Management</firstterm> (also called <firstterm>Digital Restrictions Management</firstterm>) describes methods of controlling how recipients and customers use products after distribution or sale. For example, a single-player computer game that only runs when you are connected to the Internet or an ebook that cannot be transferred from your old ebook reader to your new one.&#160;
+</para>
+        <para>Some FLO licences forbid technical restrictions being placed on the work, which includes DRM. Remember, this does not restrict the copyright holder from distributing the work under DRM, only others who want to take advantage of the FLO licence to distribute the work.&#160; However, even if a work is under a FLO licence, if the work is only available under DRM it will not qualify as a free cultural work or open knowledge.</para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Overlapping concepts</title>
+      <sect2>
+        <title>Open access</title>
+        <para>There are two competing definitions of open access:
+</para>
+        <para><emphasis role="bold">The broader one:</emphasis> an open access work is a scholarly book or article that is available online for any person to access without charge.
+</para>
+        <para><emphasis role="bold">The narrow definition of open access,</emphasis> established at the Budapest Open Access Initiative: an open access work is one that is available online for any person to access, distribute or use in any other way without financial, legal or technical barriers and with no constraints except those of the integrity of the work and attribution.&#160;
+</para>
+        <para>The latter definition effectively requires that open access works be FLO. Unfortunately, the former definition has gained widespread acceptance, and it is the one used throughout this glossary.&#160;
+</para>
+        <para><emphasis role="bold">
+            <quote>Gratis open access</quote>
+          </emphasis> refers to baseline open access. <firstterm>
+            <quote>Libre open access</quote>
+          </firstterm> has been used to refer to open access works that have fewer copyright restrictions. Note that this is a loose use of <quote>libre</quote>: a work that could only be shared noncommercially or verbatim would be <quote>libre open access</quote> even though it is not libre by standard usage.
+</para>
+        <para><firstterm>
+            <quote>
+              <firstterm>Green open access</firstterm>
+            </quote>
+          </firstterm> describes a work that has been self-archived by the author in a repository or on a website, after having been published in the traditional way. <firstterm>
+            <quote>Gold open access</quote>
+          </firstterm> describes a work that is immediately made available by its publisher.
+</para>
+        <para><emphasis role="bold">Relationship to FLO:</emphasis> Open access works are not necessarily FLO. They can be all rights reserved. While many FLO works are open access, not all of them are. For example, the Creative Commons Attribution-ShareAlike periodical <emphasis role="italic">Fantastique Unfettered</emphasis> is FLO, but not available online or for no charge.&#160;</para>
+      </sect2>
+      <sect2>
+        <title>Shared source</title>
+        <para>Microsoft used the term ‘shared source’ to describe software code that it made available online for people to read and reference. Some shared source remained all rights reserved; other code was released under FLO licences. The term could be used more broadly to describe any source code that has been made readily available to read and reference, but not necessarily to duplicate or change.&#160;
+</para>
+        <para>Shared source should not be confused with open source. Almost all open source is shared source, but open source software is also free from many copyright restrictions. In addition, a program under an open source licence, with source code that is accessible from within the program but not available online would qualify as open source but not shared source.&#160;
+</para>
+        <para>Shared source is similar to gratis open access, except that it refers to software rather than scholarly works.&#160;
+</para>
+        <para><emphasis role="italic">Not to be confused with:</emphasis>&#160;
+</para>
+        <itemizedlist>
+          <listitem>
+            <para>shareable content. Shareable content is always free from some copyright restrictions, and is not necessarily available online.&#160;
+</para>
+          </listitem>
+          <listitem>
+            <para>shareware. Shareware is available for no cost in an encumbered form, and its code is not necessarily available.&#160;
+</para>
+          </listitem>
+          <listitem>
+            <para>share-alike.</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+      <sect2>
+        <title>Open design</title>
+        <para>Open design describes the creation of machines and other physical objects through publicly-shared information. It is unclear to me whether that information must also be FLO licensed.</para>
+      </sect2>
+      <sect2>
+        <title>OER/Open educational resources</title>
+        <para>Open educational resources are poorly defined. At their most narrow, such as the William and Flora Hewlett Foundation definition, they are <quote>resid[ing] in the public domain or [...] released under an intellectual property license that permits their free use or re-purposing by others</quote>. Under this definition, all OER must be FLO.&#160;
+</para>
+        <para>The broader definitions simply require that OER be available at no cost for use and re-use. This includes FLO, but also includes works under Creative Commons licences with the NonCommercial terms, for example.</para>
+      </sect2>
+      <sect2>
+        <title>Open gaming</title>
+        <para>Open gaming describes tabletop gaming resources under either (a) FLO licences or (b) public copyright licences. Ryan Darcey, who coined the term, described open gaming licences as allowing commercial use. However, the Open Game License itself—while allowing commercial use—has other restrictions which may make it non-FLO.</para>
+      </sect2>
+      <sect2>
+        <title>Open patents</title>
+        <para>An open patent is a patent that, when used, stops the user from exploiting their own patents in that particular field. As such, it bears similarities to the reciprocal nature of copyleft, but concerns a different area of the law.</para>
+      </sect2>
+    </sect1>
+  </chapter>
+  <chapter>
+    <title>Definitions and declarations</title>
+    <sect1>
+      <title>Key definitions</title>
+      <para><emphasis role="bold">The Open Source Definition</emphasis> (Open Source Initiative): <ulink url="http://opensource.org/osd-annotated">http://opensource.org/osd-annotated</ulink>
+</para>
+      <para><emphasis role="bold">The Free Software Definition</emphasis> (Free Software Foundation): <ulink url="http://www.gnu.org/philosophy/free-sw.html">http://www.gnu.org/philosophy/free-sw.html</ulink>
+</para>
+      <para><emphasis role="bold">Definition of Free Cultural Works</emphasis> (Free Culture Foundation): <ulink url="http://freedomdefined.org/Definition">http://freedomdefined.org/Definition</ulink>&#160;
+</para>
+      <para><emphasis role="bold">Open Definition/Open Knowledge Definition</emphasis> (Open Knowledge Foundation): <ulink url="http://opendefinition.org/">http://opendefinition.org/</ulink>
+</para>
+      <para><emphasis role="bold">What is Copyleft?</emphasis> (GNU Operating System) <ulink url="https://www.gnu.org/copyleft/">https://www.gnu.org/copyleft/</ulink></para>
+    </sect1>
+    <sect1>
+      <title>Other definitions</title>
+      <para>David Wiley’s open content definition: <ulink url="http://opencontent.org/definition/">http://opencontent.org/definition/</ulink>
+</para>
+      <para>LINFO’s free file format definition: <ulink url="http://www.linfo.org/free_file_format.html">http://www.linfo.org/free_file_format.html</ulink>
+</para>
+      <para>The Budapest, Bethesda and Berlin definitions of open access:
+</para>
+      <itemizedlist>
+        <listitem>
+          <para>Budapest Open Access Initiative Declaration: <ulink url="http://www.budapestopenaccessinitiative.org/read">http://www.budapestopenaccessinitiative.org/read</ulink>
+</para>
+        </listitem>
+        <listitem>
+          <para>Bethesda Statement on Open Access Publishing: <ulink url="http://dash.harvard.edu/handle/1/4725199">http://dash.harvard.edu/handle/1/4725199</ulink>
+</para>
+        </listitem>
+        <listitem>
+          <para>Berlin Declaration on Open Access to Scientific Knowledge: <ulink url="http://oa.mpg.de/lang/en-uk/berlin-prozess/berliner-erklarung/">http://oa.mpg.de/lang/en-uk/berlin-prozess/berliner-erklarung/</ulink>
+</para>
+        </listitem>
+      </itemizedlist>
+      <para>Definitions of open educational resources: <ulink url="http://en.wikipedia.org/wiki/Open_educational_resources#Defining_the_Scope_and_Nature_of_Open_Educational_Resources">http://en.wikipedia.org/wiki/Open_educational_resources#Defining_the_Scope_and_Nature_of_Open_Educational_Resources</ulink>
+</para>
+      <para>The Definition of Free Cultural Works’ Open Source Hardware Principles and Definition: <ulink url="http://freedomdefined.org/OSHW">http://freedomdefined.org/OSHW</ulink>
+</para>
+      <para>Copyleft Definition (LINFO): <ulink url="http://www.linfo.org/copyleft.html">http://www.linfo.org/copyleft.html</ulink>
+</para>
+      <para>What Does Free/Libre/Open Mean (Snowdrift.coop): <ulink url="https://snowdrift.coop/w/free-libre-open">https://snowdrift.coop/w/free-libre-open</ulink></para>
+    </sect1>
+  </chapter>
+</book>
